@@ -1,6 +1,6 @@
 cask "distari" do
-  version "1.5.4,3055"
-  sha256 "988ee10c882f63b44f0235fb63eb9fc89e8d06228719d4c95409a7617c55fad2"
+  version "1.5.5,3059"
+  sha256 "479030ab061939c3955739a8d9dab77aabe24fbe698da53027fe0e4903918599"
 
   url "https://downloads.distari.com/macos/distari-#{version.csv.first}+#{version.csv.second}-macos-universal.dmg"
   name "Distari"
